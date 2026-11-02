@@ -1,7 +1,7 @@
 # metalroofingpalatka.com — Mission Metals Palatka site
 
 ## ⚠️ Temporary phone
-(352) 555-0100 / tel:3525550100 is a PLACEHOLDER. Replace every instance (all 3 HTML files + schema "+1-352-555-0100") with the CallRail number:
+(352) 720-9286 / tel:3527209286 is a PLACEHOLDER. Replace every instance (all 3 HTML files + schema "+1-352-720-9286") with the CallRail number:
 `grep -rn "555-0100\|5550100" .`
 
 ## Upload to GitHub
